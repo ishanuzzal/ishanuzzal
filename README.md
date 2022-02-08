@@ -16,6 +16,6 @@ Connect With me
 
 Github Overview
 ======
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanuzzal)](https://github.com/anuraghazra/github-readme-stats)
+[![Uzzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanuzzal)](https://github.com/ishanuzzal/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanuzzal&layout=compact)](https://github.com/ishanuzzal/github-readme-stats)
