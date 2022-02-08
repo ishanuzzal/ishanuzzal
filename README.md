@@ -13,6 +13,6 @@ Skills: C / C++ / JAVA / REACT / JS / HTML / CSS
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ishanuzzal&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?ishanuzzal=https://github.com/ishanuzzal&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/ishanuzzal)  
