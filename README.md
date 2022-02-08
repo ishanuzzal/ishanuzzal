@@ -14,7 +14,7 @@ Connect With me
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-##Github Overview
+Github Overview
 ======
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanuzzal)](https://github.com/anuraghazra/github-readme-stats)
 
