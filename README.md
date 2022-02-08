@@ -15,6 +15,6 @@ Connect With me
 
 Github Overview
 ======
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanuzzal&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanuzzal&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanuzzal&layout=compact)](https://github.com/ishanuzzal/github-readme-stats)
