@@ -3,7 +3,7 @@ I am a CS undergraduate, a Programmer and an average problem solver.
 
 Skills: C / C++ / JAVA / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on in my own company
+- 🔭 I’m currently working on my own company
 - 🌱 I’m currently learning JavaScript , React 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: They say I am introvert 
