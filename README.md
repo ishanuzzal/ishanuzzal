@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ishanuzzal)
 ### Hi there 👋, This is Safiqul Islam Uzzal
 I am a CS undergraduate, a Programmer and an average problem solver.
 
